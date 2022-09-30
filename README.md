@@ -9,4 +9,6 @@
 	<img src="https://github.com/prog-cy/QRCodeScanner/blob/master/screen3.jpeg" width="200" height="400"
 	margin="10"/>
 
+</p>
+
 ## This application can scan a QR code and extract the information of the QR code.
