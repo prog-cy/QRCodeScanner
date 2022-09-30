@@ -1,6 +1,6 @@
 # QRCode Scanner(Android Application)
 
-<p align = "center>
+<p align = "center">
 	
 	<img src="https://github.com/prog-cy/QRCodeScanner/blob/master/screen1.jpeg" width="200" height="400"
 	margin="10">
